@@ -7,8 +7,6 @@ const mysql = require('mysql2');
 //     password: 'Prabisha@2024!',
 //     database: 'prabisha_hr_solution'
 //   });
-
-
 const connection = mysql.createConnection({
   host: 'localhost',
   user: 'root',
